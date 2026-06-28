@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053d8e02-da22-429b-af24-5d8dd44bf755" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/MiniMission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04/MiniMission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Practice4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="053d8e02-da22-429b-af24-5d8dd44bf755" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
